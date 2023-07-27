@@ -43,6 +43,9 @@ This app predicts how much of a loan will be granted to an applicant. The app us
 ## Quick Glance At The Results
 
 Correlation Between The Features: 
+![Heatmap](assets/correlation-heatmap.png)
+
+
 
 
 
