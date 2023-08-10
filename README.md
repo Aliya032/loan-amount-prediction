@@ -17,7 +17,6 @@
 - [Explore The Notebook](#explore-the-notebook)
 - [Deployment on Streamlit](#deployment-on-streamlit)
 - [App Deployed On Streamlit](#app-deployed-on-streamlit)
-- [Repository Structure](#repository-structure)
 
 ## Business Problem
 
